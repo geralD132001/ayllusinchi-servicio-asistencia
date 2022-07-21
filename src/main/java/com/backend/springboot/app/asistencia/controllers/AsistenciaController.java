@@ -23,7 +23,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-@CrossOrigin(origins = { "https://ayllusinchi-app.azurewebsites.net" })
+@CrossOrigin(origins = { "https://ayllusinchis-app.azurewebsites.net" })
 @RestController
 public class AsistenciaController {
 
